@@ -1,6 +1,7 @@
 #Function-Plott
+Function plotter GUI using python with pyside2 and pytest to plot an arbitrary user-entered function.
 
-#Screenshots
+##Screenshots
 
 ![Start](screenshots/start.jpg)
 ![Valid_Function](screenshots/valid_function.jpg)
